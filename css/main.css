@@ -280,3 +280,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.slider {
+  width: 100%;
+}
